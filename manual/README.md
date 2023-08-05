@@ -105,7 +105,7 @@
 
    - クリエイター展示申込書を書いてもらう
 
-     <img src="./image/timetree.png" width="300">
+     <img src="./image/creator.png" width="300">
 
 3. 展示方法を聞く
 
