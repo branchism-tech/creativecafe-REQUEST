@@ -14,11 +14,11 @@
 
   1.  1 DRINK SUPPORT ベーシックプランのカードを渡す。
 
-  <img src="./image/basic_1.png" width="100"><img src="./image/basic_2.png" width="100">
+      <img src="./image/basic_1.png" width="100"><img src="./image/basic_2.png" width="100">
 
   2.  「こちら ONE DRINK SUPPORT 　ベーシックプランのカードでございます。（ボードを指して）対応できるスタッフと内容はこちらのボードで確認できます。相談したい内容がある場合はカードを持ってレジのスタッフにお渡しください。」
 
-    <img src="./image/board.png" width="100">
+      <img src="./image/board.png" width="100">
 
 - 「使いたい」と言われたら
 
@@ -31,7 +31,7 @@
   - 対応可能な場合
 
     1.  ボードの「対応中」に自分のプレートを移す
-    2.  カードに内容と自分の名前を書く（ニックネーム）
+    2.  カードに内容と日付、自分の名前を書く（ニックネーム）
 
         <img src="./image/basic_3.png" width="100">
 
